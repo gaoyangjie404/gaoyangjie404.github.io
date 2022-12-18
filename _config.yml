@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: #d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: #lemonchann.github.io
-  owner: #lemonchann
+  clientID: b1885abef5233855a2ed
+  clientSecret: 510749df1083db4923a6c1f300e5e4956a20e3da
+  repo: gaoyangjie404.github.io
+  owner: gaoyangjie404
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
